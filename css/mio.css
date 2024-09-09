@@ -1,0 +1,106 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@font-face {font-family: "Olde English";
+			font-style: normal;
+			font-weight: normal;
+	src: url("../OldeEnglish.ttf")
+	}
+@font-face {font-family: Merriweather, 'Merriweather Black', 'Merriweather Light';
+			font-style: normal;
+			font-weight: normal;
+	src: url("../Merriweather-Regular.ttf")
+	
+	
+}
+.style {
+    background-color: #00A08E;
+}
+.rojo {
+    font-family: "Olde English";
+    color: #A10E16;
+    font-size: 43pt;
+    text-align: center;
+}
+.negro {
+    background-color: #000000;
+}
+.Fondorojo {
+    background-color: #6F060A;
+}
+.blancoletra {
+    color: #FFFFFF;
+    font-family: "Olde English";
+    font-size: 37pt;
+    text-align: center;
+}
+.parrafoblanco {
+    color: #FFFFFF;
+    font-family: Merriweather, "Merriweather Black", "Merriweather Light";
+    text-align: justify;
+}
+body {
+    font-family: 'Olde English';
+    font-family: Merriweather, 'Merriweather Black', 'Merriweather Light';
+}
+
+.rvar {
+    color: #B30002;
+    font-family: "Olde English";
+    font-size: 16pt;
+}
+.rojoGrande {
+    font-family: "Olde English";
+    color: #8B1110;
+    font-size: 36pt;
+    text-align: center;
+
+}
+.blancotitulo {
+    color: #FFFFFF;
+    font-family: "Olde English";
+}
+.rojoletra {
+    color: #6F060A;
+    font-family: Merriweather, "Merriweather Black", "Merriweather Light";
+}
+.rosaditoletra {
+    color: #653A81;
+    text-align: center;
+    font-size: 16pt;
+}
+.fondomorado {
+    background-color: #59357B;
+
+}
+.letranegro {
+    color: #000000;
+    font-size: 19pt;
+}
+.fondito {
+    background-color: #E3457A;
+}
+.blue {
+    background-color: #3A8BB0;
+}
+.beige {
+    background-color: #E3D09E;
+}
+.helado {
+    background-color: #C38F41;
+}
+.human {
+    background-color: #F4CCA7;
+}
+.letraverde {
+    color: #59B062;
+    font-family: Merriweather, "Merriweather Black", "Merriweather Light";
+    text-align: justify;
+}
+.parrafnegro {
+    color: #000000;
+    font-family: Merriweather, "Merriweather Black", "Merriweather Light";
+    text-align: justify;
+}
+.fondoverde {
+    background-color: #3FAA62;
+}
